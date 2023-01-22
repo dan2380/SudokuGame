@@ -8,7 +8,7 @@ Graphical GUI and text based version.
 
 # How to Run
 
--sudokuSolver.py: just input board values and run it to solve the board for you
+-sudokuSolver.py: just input board values and run it to solve the board for you <br>
 -sudokuGameGraphicGUI: on local terminal type "pip install pygame", then run the sudokuGameGraphicGUI.py file
 
 # Instructions
